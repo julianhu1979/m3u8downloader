@@ -4,8 +4,9 @@ for download m3u8 video
 
 ## Download
 
-$ git clone https://github.com/shirosaidev/stocksight.git
-$ cd stocksight
+ $ git clone https://github.com/julianhu1979/m3u8downloader.git
+
+ $ cd stocksight
 
 ## Install
 
