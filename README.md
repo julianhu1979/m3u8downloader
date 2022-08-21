@@ -1,6 +1,6 @@
 ## About
 
-for download m3u8 video 
+for download m3u8 video, it could decrypt and coverting PNG to TS automatically. 
 
 ## Download
 
